@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:sales_stock_system/screens/auth/welcome_screen.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(StockManagementApp());
 }
 
 class MyApp extends StatelessWidget {
