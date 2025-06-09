@@ -1,0 +1,19 @@
+# Python/Django
+venv/
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+*.log
+backend/staticfiles/
+
+# Flutter
+frontend/.dart_tool/
+frontend/.idea/
+frontend/.packages
+frontend/build/
+frontend/pubspec.lock
+
+# OS files
+.DS_Store
+Thumbs.db
