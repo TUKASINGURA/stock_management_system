@@ -8,11 +8,6 @@ db.sqlite3
 backend/staticfiles/
 
 # Flutter
-frontend/.dart_tool/
-frontend/.idea/
-frontend/.packages
-frontend/build/
-frontend/pubspec.lock
 
 # OS files
 .DS_Store
